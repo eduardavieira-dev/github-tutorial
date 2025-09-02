@@ -60,7 +60,8 @@ O GitHub é uma plataforma que permite você hospedar e gerenciar seus projetos 
 1. **Clone o repositório**:
 
    - Encontre o repositório no GitHub
-   - Clique no botão "Code" e copie a URL
+   - Clique no botão "<>Code" e copie a URL
+     ![Clonando um repositório](img/clone.png)
    - Clone localmente:
 
    ```bash
